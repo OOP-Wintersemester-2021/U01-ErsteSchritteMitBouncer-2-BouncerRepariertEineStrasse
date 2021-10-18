@@ -1,4 +1,6 @@
-# U01-2 | Bouncer repariert eine Straße
+# U02 | Bouncer repariert eine Straße
+
+Lesen Sie die Aufgabenstellung gründlich durch und Vesuchen Sie, die beschriebenenen Probleme zuerst selbständig zu lösen. Grundlegende Informationen zum Umgang mit der Entwicklungsumgebung IntelliJ und zu den wichtigsten Bouncer-Befehlen finden Sie im GRIPS-Kurs. Bei Fragen stehen wir Ihnen per E-Mail oder im Discord zur Verfügung.    
 
 ## Ausgangslange
 Bouncer steht auf einer grünen Straße mit einigen Schlaglöchern (rot). Bouncers Aufgabe ist es die komplette Straße zu überprüfen und alle zerstörten Stellen auszubessern. Am Ende sollen alle Felder der Straße grün eingefärbt sein:  
